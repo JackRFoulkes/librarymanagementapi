@@ -1,2 +1,2 @@
 # librarymanagementapi
- API forr librarymanagementtool
+ API for librarymanagementtool
